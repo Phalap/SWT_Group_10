@@ -1,0 +1,9 @@
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\NUnit_test_Calculator\bin\Debug\netstandard2.0\NUnit_test_Calculator.deps.json
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\NUnit_test_Calculator\bin\Debug\netstandard2.0\NUnit_test_Calculator.dll
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\NUnit_test_Calculator\bin\Debug\netstandard2.0\NUnit_test_Calculator.pdb
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\NUnit_test_Calculator\obj\Debug\netstandard2.0\NUnit_test_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\NUnit_test_Calculator\obj\Debug\netstandard2.0\NUnit_test_Calculator.AssemblyInfoInputs.cache
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\NUnit_test_Calculator\obj\Debug\netstandard2.0\NUnit_test_Calculator.AssemblyInfo.cs
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\NUnit_test_Calculator\obj\Debug\netstandard2.0\NUnit_test_Calculator.dll
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\NUnit_test_Calculator\obj\Debug\netstandard2.0\NUnit_test_Calculator.pdb
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\NUnit_test_Calculator\obj\Debug\netstandard2.0\NUnit_test_Calculator.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\bin\Debug\netstandard2.0\Mono.Cecil.dll
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\bin\Debug\netstandard2.0\CalculatorTestUnit.deps.json
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\bin\Debug\netstandard2.0\CalculatorTestUnit.dll
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\bin\Debug\netstandard2.0\CalculatorTestUnit.pdb
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\bin\Debug\netstandard2.0\NUnit_test_Calculator.dll
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\bin\Debug\netstandard2.0\NUnit_test_Calculator.pdb
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\obj\Debug\netstandard2.0\CalculatorTestUnit.csprojAssemblyReference.cache
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\obj\Debug\netstandard2.0\CalculatorTestUnit.csproj.CoreCompileInputs.cache
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\obj\Debug\netstandard2.0\CalculatorTestUnit.AssemblyInfoInputs.cache
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\obj\Debug\netstandard2.0\CalculatorTestUnit.AssemblyInfo.cs
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\obj\Debug\netstandard2.0\CalculatorTestUnit.csproj.CopyComplete
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\obj\Debug\netstandard2.0\CalculatorTestUnit.dll
+C:\Users\Mathi\source\repos\NUnit_test_Calculator\Calculator.Test.Unit\obj\Debug\netstandard2.0\CalculatorTestUnit.pdb
