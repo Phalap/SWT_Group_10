@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mathi\\source\\repos\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Mathi\\OneDrive\\Dokumenter\\GitHub\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Mathi\\source\\repos\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\Mathi\\OneDrive\\Dokumenter\\GitHub\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Mathi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mathi\\source\\repos\\NUnit_test_Calculator\\NUnit_test_Calculator\\obj\\",
+      "outputPath": "C:\\Users\\Mathi\\OneDrive\\Dokumenter\\GitHub\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\NUnit_test_Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

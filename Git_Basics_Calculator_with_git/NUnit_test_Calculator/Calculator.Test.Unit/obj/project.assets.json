@@ -5690,11 +5690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mathi\\source\\repos\\NUnit_test_Calculator\\Calculator.Test.Unit\\Calculator.Test.Unit.csproj",
+      "projectUniqueName": "C:\\Users\\Mathi\\OneDrive\\Dokumenter\\GitHub\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\Calculator.Test.Unit\\Calculator.Test.Unit.csproj",
       "projectName": "Calculator.Test.Unit",
-      "projectPath": "C:\\Users\\Mathi\\source\\repos\\NUnit_test_Calculator\\Calculator.Test.Unit\\Calculator.Test.Unit.csproj",
+      "projectPath": "C:\\Users\\Mathi\\OneDrive\\Dokumenter\\GitHub\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\Calculator.Test.Unit\\Calculator.Test.Unit.csproj",
       "packagesPath": "C:\\Users\\Mathi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mathi\\source\\repos\\NUnit_test_Calculator\\Calculator.Test.Unit\\obj\\",
+      "outputPath": "C:\\Users\\Mathi\\OneDrive\\Dokumenter\\GitHub\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\Calculator.Test.Unit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5713,8 +5713,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Mathi\\source\\repos\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj": {
-              "projectPath": "C:\\Users\\Mathi\\source\\repos\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj"
+            "C:\\Users\\Mathi\\OneDrive\\Dokumenter\\GitHub\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj": {
+              "projectPath": "C:\\Users\\Mathi\\OneDrive\\Dokumenter\\GitHub\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj"
             }
           }
         }
