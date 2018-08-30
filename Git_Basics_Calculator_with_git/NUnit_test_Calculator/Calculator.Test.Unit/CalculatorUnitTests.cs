@@ -55,5 +55,49 @@ namespace Calculator_Test_Unit
             return uut.Add(x, y);
         }
 
+        //Test divide 2 positive numbers
+        [Test]
+        public void Divisions_divide9by3_returns3()
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            Assert.That(uut.Divide(9,3), Is.EqualTo(3));
+        }
+
+        //Test divide negative by positive
+        [Test]
+        public void Divisions_divideMinus9by3_returnsMinus3()
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            Assert.That(uut.Divide(-9, 3), Is.EqualTo(-3));
+        }
+
+        //Test divide positive by negative
+        [Test]
+        public void Divisions_divide9byMinus3_returnsMinus3()
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            Assert.That(uut.Divide(9, -3), Is.EqualTo(-3));
+        }
+
+        //Test return decimal number
+        [Test]
+        public void Divisions_divide5by2_returnsMinus2point5()
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            Assert.That(uut.Divide(5, 2), Is.EqualTo(2.5));
+        }
+
+        //Test for division by 0
+        [Test]
+        public void Divisions_divide5by0_returnsInfinity()
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            Assert.That(uut.Divide(5, 0), Is.EqualTo(Double.PositiveInfinity));
+        }
     }
 }
