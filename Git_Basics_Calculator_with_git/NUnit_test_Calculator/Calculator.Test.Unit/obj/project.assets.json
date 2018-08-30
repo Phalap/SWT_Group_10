@@ -5684,23 +5684,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mathi\\.nuget\\packages\\": {},
+    "C:\\Users\\71395\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mathi\\source\\repos\\NUnit_test_Calculator\\Calculator.Test.Unit\\Calculator.Test.Unit.csproj",
+      "projectUniqueName": "C:\\Users\\71395\\OneDrive - Grundfos\\ASE\\7. semester\\SWT\\repo\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\Calculator.Test.Unit\\Calculator.Test.Unit.csproj",
       "projectName": "Calculator.Test.Unit",
-      "projectPath": "C:\\Users\\Mathi\\source\\repos\\NUnit_test_Calculator\\Calculator.Test.Unit\\Calculator.Test.Unit.csproj",
-      "packagesPath": "C:\\Users\\Mathi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mathi\\source\\repos\\NUnit_test_Calculator\\Calculator.Test.Unit\\obj\\",
+      "projectPath": "C:\\Users\\71395\\OneDrive - Grundfos\\ASE\\7. semester\\SWT\\repo\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\Calculator.Test.Unit\\Calculator.Test.Unit.csproj",
+      "packagesPath": "C:\\Users\\71395\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\71395\\OneDrive - Grundfos\\ASE\\7. semester\\SWT\\repo\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\Calculator.Test.Unit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\71395\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5713,8 +5713,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Mathi\\source\\repos\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj": {
-              "projectPath": "C:\\Users\\Mathi\\source\\repos\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj"
+            "C:\\Users\\71395\\OneDrive - Grundfos\\ASE\\7. semester\\SWT\\repo\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj": {
+              "projectPath": "C:\\Users\\71395\\OneDrive - Grundfos\\ASE\\7. semester\\SWT\\repo\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj"
             }
           }
         }
@@ -5733,7 +5733,6 @@
             "version": "[15.8.0, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
