@@ -191,6 +191,58 @@ namespace Calculator_Test_Unit
             Assert.That(uut.Subtract(-3), Is.EqualTo(7));
         }
 
+        //Test multiplication with uninitialized Accumulator
+        [TestCase(2, ExpectedResult = 0)]
+        [TestCase(-2, ExpectedResult = 0)]
+        [TestCase(1.5, ExpectedResult = 0)]
+        public double MultiplyWithTestCase_MultiplyWithUninitializedAccumulator_ReturnsResult(double Multiplicator)
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            return uut.Multiply(Multiplicator);
+        }
+
+        //Test multiplication with initialized Accumulator
+        [TestCase(2, ExpectedResult = 8)]
+        [TestCase(-2, ExpectedResult = -8)]
+        [TestCase(1.5, ExpectedResult = 6)]
+        public double MultiplyWithTestCase_MultiplyWithInitializedAccumulator_ReturnsResult(double Multiplicator)
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            uut.Add(4); // Accumulator = 4 - Given that Add works as proposed.
+
+            return uut.Multiply(Multiplicator);
+        }
+
+        //Test division with uninitialized Accumulator
+        [TestCase(2, ExpectedResult = 0)]
+        [TestCase(-2, ExpectedResult = 0)]
+        [TestCase(1.5, ExpectedResult = 0)]
+        [TestCase(0, ExpectedResult = Double.NaN)]
+        public double DivisionWithTestCase_MultiplyWithUninitializedAccumulator_ReturnsResult(double divisor)
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            return uut.Divide(divisor);
+        }
+
+        //Test multiplication with initialized Accumulator
+        [TestCase(2, ExpectedResult = 2)]
+        [TestCase(-2, ExpectedResult = -2)]
+        [TestCase(1.5, ExpectedResult = 4/1.5)]
+        [TestCase(0, ExpectedResult = Double.PositiveInfinity)]
+        public double DivisionWithTestCase_MultiplyWithInitializedAccumulator_ReturnsResult(double divisor)
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            uut.Add(4); // Accumulator = 4 - Given that Add works as proposed.
+
+            return uut.Divide(divisor);
+        }
+
+
+
         #endregion
     }
 }
