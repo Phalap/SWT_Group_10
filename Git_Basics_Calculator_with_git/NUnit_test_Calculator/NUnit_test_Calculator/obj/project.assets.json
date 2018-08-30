@@ -183,11 +183,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\71395\\OneDrive - Grundfos\\ASE\\7. semester\\SWT\\repo\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj",
       "projectName": "Calculator",
       "projectPath": "C:\\Users\\71395\\OneDrive - Grundfos\\ASE\\7. semester\\SWT\\repo\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\71395\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\71395\\OneDrive - Grundfos\\ASE\\7. semester\\SWT\\repo\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\NUnit_test_Calculator\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Mathi\\OneDrive\\Dokumenter\\GitHub\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj",
+      "projectName": "Calculator",
+      "projectPath": "C:\\Users\\Mathi\\OneDrive\\Dokumenter\\GitHub\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\NUnit_test_Calculator\\Calculator.csproj",
+      "packagesPath": "C:\\Users\\Mathi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mathi\\OneDrive\\Dokumenter\\GitHub\\SWT_Group_10\\Git_Basics_Calculator_with_git\\NUnit_test_Calculator\\NUnit_test_Calculator\\obj\\",
+>>>>>>> 51a460f9f9608d7e75364575615a0d0455a8d513
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
