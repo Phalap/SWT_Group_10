@@ -99,5 +99,98 @@ namespace Calculator_Test_Unit
 
             Assert.That(uut.Divide(5, 0), Is.EqualTo(Double.PositiveInfinity));
         }
+
+        #region test of overloads
+
+        //Test addition of default accumulator and positive int
+        [Test]
+        public void Addition_add3toDefaultAccumulator_returns3()
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            Assert.That(uut.Add(3), Is.EqualTo(3));
+        }
+
+        //Test addition of default accumulator and negative int
+        [Test]
+        public void Addition_addMinus3toDefaultAccumulator_returnsMinus3()
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            Assert.That(uut.Add(-3), Is.EqualTo(-3));
+        }
+
+        //Test addition of initialized accumulator and positive int
+        [Test]
+        public void Addition_add3toInitializedAccumulator_returns6()
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            uut.Add(3); // Accumulator = 3 - Given that Add works as proposed.
+
+            Assert.That(uut.Add(3), Is.EqualTo(6));
+        }
+
+        //Test addition of initialized accumulator and negative int
+        [Test]
+        public void Addition_addMinus3toInitializedAccumulator_returns1()
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            uut.Add(4); // Accumulator = 3 - Given that Add works as proposed.
+
+            Assert.That(uut.Add(-3), Is.EqualTo(1));
+        }
+
+        //Test addition of default accumulator and positive decimal number
+        [Test]
+        public void Addition_add2point5toDefaultAccumulator_returns2point5()
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            Assert.That(uut.Add(2.5), Is.EqualTo(2.5));
+        }
+
+        //Test subtraction of default accumulator and positive int
+        [Test]
+        public void Subtraction_subtract3fromDefaultAccumulator_returnsMinus3()
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            Assert.That(uut.Subtract(3), Is.EqualTo(-3));
+        }
+
+        //Test subtraction of default accumulator and negative int
+        [Test]
+        public void Subtraction_subtractMinus3fromDefaultAccumulator_returns3()
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            Assert.That(uut.Subtract(-3), Is.EqualTo(3));
+        }
+
+        //Test subtraction of initialized accumulator and positive int
+        [Test]
+        public void Subtraction_subtract3fromInitializedAccumulator_returns1()
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            uut.Add(4); // Accumulator = 4 - Given that Add works as proposed.
+
+            Assert.That(uut.Subtract(3), Is.EqualTo(1));
+        }
+
+        //Test subtraction of initialized accumulator and negative int
+        [Test]
+        public void Subtraction_subtractMinus3fromInitializedAccumulator_returns1()
+        {
+            var uut = new NUnit_test_Calculator.Calculator();
+
+            uut.Add(4); // Accumulator = 4 - Given that Add works as proposed.
+
+            Assert.That(uut.Subtract(-3), Is.EqualTo(7));
+        }
+
+        #endregion
     }
 }
