@@ -16,3 +16,11 @@ C:\Users\Mathi\OneDrive\Dokumenter\GitHub\SWT_Group_10\Git_Basics_Calculator_wit
 C:\Users\Mathi\OneDrive\Dokumenter\GitHub\SWT_Group_10\Git_Basics_Calculator_with_git\NUnit_test_Calculator\NUnit_test_Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
 C:\Users\Mathi\OneDrive\Dokumenter\GitHub\SWT_Group_10\Git_Basics_Calculator_with_git\NUnit_test_Calculator\NUnit_test_Calculator\obj\Debug\netstandard2.0\Calculator.dll
 C:\Users\Mathi\OneDrive\Dokumenter\GitHub\SWT_Group_10\Git_Basics_Calculator_with_git\NUnit_test_Calculator\NUnit_test_Calculator\obj\Debug\netstandard2.0\Calculator.pdb
+C:\Users\Mathi\OneDrive\Skrivebord\Skole\git\SWT\SWT_Group_10\Git_Basics_Calculator_with_git\NUnit_test_Calculator\NUnit_test_Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Users\Mathi\OneDrive\Skrivebord\Skole\git\SWT\SWT_Group_10\Git_Basics_Calculator_with_git\NUnit_test_Calculator\NUnit_test_Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Users\Mathi\OneDrive\Skrivebord\Skole\git\SWT\SWT_Group_10\Git_Basics_Calculator_with_git\NUnit_test_Calculator\NUnit_test_Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Users\Mathi\OneDrive\Skrivebord\Skole\git\SWT\SWT_Group_10\Git_Basics_Calculator_with_git\NUnit_test_Calculator\NUnit_test_Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mathi\OneDrive\Skrivebord\Skole\git\SWT\SWT_Group_10\Git_Basics_Calculator_with_git\NUnit_test_Calculator\NUnit_test_Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Mathi\OneDrive\Skrivebord\Skole\git\SWT\SWT_Group_10\Git_Basics_Calculator_with_git\NUnit_test_Calculator\NUnit_test_Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Users\Mathi\OneDrive\Skrivebord\Skole\git\SWT\SWT_Group_10\Git_Basics_Calculator_with_git\NUnit_test_Calculator\NUnit_test_Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Users\Mathi\OneDrive\Skrivebord\Skole\git\SWT\SWT_Group_10\Git_Basics_Calculator_with_git\NUnit_test_Calculator\NUnit_test_Calculator\obj\Debug\netstandard2.0\Calculator.pdb

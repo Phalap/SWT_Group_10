@@ -48,6 +48,7 @@ namespace Calculator_Test_Unit
 
         [TestCase(2,3, ExpectedResult =5)]
         [TestCase(3, 5, ExpectedResult = 8)]
+        [TestCase(3, 6, ExpectedResult = 9)]
         public double AddWithTestCase_Add2Numbers_ReturnsResult(double x, double y)
         {
             var uut = new NUnit_test_Calculator.Calculator();
