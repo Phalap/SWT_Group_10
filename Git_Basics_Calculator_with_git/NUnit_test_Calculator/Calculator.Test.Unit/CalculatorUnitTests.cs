@@ -46,9 +46,10 @@ namespace Calculator_Test_Unit
             Assert.That(uut.Power(2,3), Is.EqualTo(8));
         }
 
-        [TestCase(2,3, ExpectedResult =5)]
+        [TestCase(2, 3, ExpectedResult =5)]
         [TestCase(3, 5, ExpectedResult = 8)]
         [TestCase(3, 6, ExpectedResult = 9)]
+        [TestCase(4, 4, ExpectedResult = 8)]
         public double AddWithTestCase_Add2Numbers_ReturnsResult(double x, double y)
         {
             var uut = new NUnit_test_Calculator.Calculator();
